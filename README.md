@@ -1,6 +1,6 @@
 # SANTANDER DEV WEEK: Bankline API
 
-### Minha Aplicação: https://shbf75-dio-bankline-api.herokuapp.com/swagger-ui/index.html
+### Aplicação: https://shbf75-dio-bankline-api.herokuapp.com/swagger-ui/index.html
 
 
 
