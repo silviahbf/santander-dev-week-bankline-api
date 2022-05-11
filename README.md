@@ -1,7 +1,4 @@
-# DIO - SANTANDER DEV WEEK:
-
-* Abstraindo o Domínio Bancário em Uma API REST com Java
-* Construindo um Front-end Angular de Extrato Bancário
+# SANTANDER DEV WEEK: Bankline API
 
 ### Minha Aplicação: https://shbf75-dio-bankline-api.herokuapp.com/swagger-ui/index.html
 
